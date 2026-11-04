@@ -1,0 +1,14 @@
+# Archivos específicos de notas o credenciales
+Cred.txt
+
+# Archivos de entorno y claves secretas
+.env
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Archivos temporales o del sistema
+.DS_Store
+Thumbs.db
+*.loggit status
